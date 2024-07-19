@@ -1,0 +1,4 @@
+# Fishing don't stop time
+This is a basic mod for Stardew Valley that prevents time freezing while reeling a fish. Useful if you are using mods that make time go slower so your day doesn't feel like an eternity.
+
+There's a problem that I was not able to fix or override, by default game makes all NPC freeze in place if theres an active dialogue, I did not like this behavior while fishing but I couldn't prevent this from happening, many weird things happened with NPC pathing if I tried to force movement update while fishing minigame was active. Feel free to suggest any changes or make a pull request.
