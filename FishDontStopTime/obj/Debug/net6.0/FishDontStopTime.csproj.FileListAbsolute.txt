@@ -6,3 +6,4 @@ C:\Users\Admin\Documents\SVMods\FishDontStopTime\FishDontStopTime\obj\Debug\net6
 C:\Users\Admin\Documents\SVMods\FishDontStopTime\FishDontStopTime\obj\Debug\net6.0\FishDontStopTime.AssemblyInfo.cs
 C:\Users\Admin\Documents\SVMods\FishDontStopTime\FishDontStopTime\obj\Debug\net6.0\FishDontStopTime.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Documents\SVMods\FishDontStopTime\FishDontStopTime\obj\Debug\net6.0\FishDontStopTime.dll
+C:\Users\Admin\Documents\SVMods\FishDontStopTime\FishDontStopTime\obj\Debug\net6.0\FishDontStopTime.sourcelink.json

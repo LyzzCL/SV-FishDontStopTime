@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FishDontStopTime")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f20dc18fb8de985ea5440e840e7dc93269b61cb2")]
 [assembly: System.Reflection.AssemblyProductAttribute("FishDontStopTime")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FishDontStopTime")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
